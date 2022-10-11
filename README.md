@@ -5,4 +5,4 @@ Fork of the code for DaemonicSigil's awesome [post](https://www.lesswrong.com/po
 My brief experiments were somewhat inconclusive. Here's some graphs for 1k dimensions and 10k steps (same hparams for the rest)
 
 ![](./experiments/dims1000wsum5eps0.0025time10000lr0.2-plot1.png)
-![](./experiments/dims1000wsum5eps0.0025time10000lr0.2-plot1.png)
+![](./experiments/dims1000wsum5eps0.0025time10000lr0.2-plot2.png)
